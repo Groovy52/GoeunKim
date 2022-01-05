@@ -38,7 +38,7 @@
 
 1. https://github.com/Groovy52/Go-Eun-Kim.git
 
-2. git@github.com:Groovy52/Go-Eun-Kim/.git
+2. git@github.com:Groovy52/Go-Eun-Kim.git 
 
 <!---
 goeun-deeplearn/goeun-deeplearn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
