@@ -16,9 +16,8 @@ Interested in **3D perception**, **LiDAR-based object detection**, and **foundat
 ---
 
 ### 🧠 Tech Stack
-`Python` · `PyTorch` · `Open3D` · `NumPy` · `OpenCV`  
-`LiDAR / 3D Object Detection` · `Attention Mechanisms` · `BEV`  
-`Git` · `Docker` · `Linux`
+`Python` · `PyTorch` · `MATLAB` · `Visual Studio code`  
+ · `CAD` · `Linux` · `Docker` · `Git`
 
 ---
 
