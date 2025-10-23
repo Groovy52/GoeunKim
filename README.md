@@ -35,12 +35,19 @@ Interested in **3D perception**, **LiDAR-based object detection**, and **foundat
   
 **🏫 University Projects**  
 - **Statistical Shape modeling** — G
+- 
 - **ICP** — R
+- 
 - **Chatbot** — R
+- 
 - **TAO(Thyloid Associated Orbitopathy) Detection** - R
+- 
 - **Chest X-ray Abnormalities Detection** - R
+- 
 - **EGD(Esophago Gastro Duodenoscopy)** - R
-- **AI-based skin desease diagnosied API system** - R
+- 
+- **AI-based API system for skin disease diagnosis** - R
+- 
 - **Image Processing** - Criteria to determine which is circle or not
 
 **🏆 Competitions**  
