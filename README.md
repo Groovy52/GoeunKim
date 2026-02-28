@@ -3,7 +3,8 @@
   AI Engineer · Biomedical Engineering & Computer Vision  
   <br/>
   <a href="mailto:goeun678@gmail.com">Email</a> ·
-  <a href="https://Groovy52.github.io" target="_blank">Blog</a> ·
+  <a href="https://Groovy52.github.io" target="_blank">Porfolio</a> ·
+  <a href="https://velog.io/@grovy52" target="_blank">Personal Blog</a> ·
   <a href="https://github.com/Groovy52" target="_blank">GitHub</a>
 </p>
 
@@ -34,21 +35,21 @@ Interested in **3D perception**, **LiDAR-based object detection**, and **foundat
   [project page](https://github.com/Groovy52/unread-cervical-imaging-classification) · [paper](https://scholar.kyobobook.co.kr/article/detail/4040047063932)
   
 **🏫 University Projects**  
-- **Statistical Shape modeling** — G
+- **Statistical Shape modeling for tooth models** 
 
-- **ICP** — R
+- **ICP** 
  
-- **Chatbot** — R
+- **Vision and Language Chatbot** 
  
-- **TAO(Thyloid Associated Orbitopathy) Detection** - R
+- **TAO(Thyloid Associated Orbitopathy) Detection** 
  
-- **Chest X-ray Abnormalities Detection** - R
+- **Chest X-ray Abnormalities Detection** 
  
-- **EGD(Esophago Gastro Duodenoscopy)** - R
+- **EGD(Esophago Gastro Duodenoscopy)** 
  
-- **AI-based API system for skin disease diagnosis** - R
+- **AI-based API system for skin disease diagnosis** 
  
-- **Image Processing** - Criteria to determine which is circle or not
+- **Image Processing** 
 
 **🏆 Competitions**  
 - **Kaggle AI Challenge (2022)** — RSNA-MICCAI Brain Tumor Radiogenomic Classification
