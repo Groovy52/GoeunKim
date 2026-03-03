@@ -24,7 +24,7 @@ Interested in **3D perception**, **LiDAR-based object detection**, and **foundat
 
 ### 🚀 Project Activities
 
-**📄 Published Project**  
+**📄 Published Research**  
 - **SALD-Net (2025.09)** — SALD-Net: Self-attention-integrated LiDAR-based 3D object detection network in a crowded hospital environment 
   [paper](https://link.springer.com/article/10.1007/s11760-025-04727-y)
 
@@ -34,7 +34,7 @@ Interested in **3D perception**, **LiDAR-based object detection**, and **foundat
 - **Unread Cervical Imaging Classification(2021.10)** — A Radiomics-based Unread Cervical Imaging Classification Algorithm 
   [paper](https://scholar.kyobobook.co.kr/article/detail/4040047063932)
   
-**🏫 University Projects**  
+**🏫 Other Projects**  
 - **Statistical Shape modeling for tooth models** 
 
 - **ICP** 
@@ -49,7 +49,11 @@ Interested in **3D perception**, **LiDAR-based object detection**, and **foundat
  
 - **AI-based API system for skin disease diagnosis** 
  
-- **Image Processing** 
+**🏫 Image Processing** 
+- High-resolution dental STL reconstruction
+- MDCT–CBCT registration
+- Iterative Closest Point (ICP)
+- Preprocessing for missing teeth
 
 **🏆 Competitions**  
 - **Kaggle AI Challenge (2022)** — RSNA-MICCAI Brain Tumor Radiogenomic Classification
