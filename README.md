@@ -11,7 +11,8 @@
 ---
 
 ### 👋 About Me
-I am interested in **vision AI that understands surrounding environments and recognizes and estimates objects from real-time sensory data**, especially when such technology can contribute to public welfare, social well-being, and mutual prosperity. Building on this interest, my current focus is on **vision AI systems** for **autonomous mobile robots (AMRs)** and **smart factories.**
+I am interested in **vision AI that understands surrounding environments and recognizes and estimates objects from real-time sensory data**, especially when such technology can contribute to public welfare, social well-being, and mutual prosperity. 
+Building on this interest, my current focus is on **vision AI systems** for **autonomous mobile robots (AMRs)** and **smart factories.**
 
 ---
 
