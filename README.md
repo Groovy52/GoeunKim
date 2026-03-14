@@ -11,8 +11,7 @@
 ---
 
 ### 👋 About Me
-Focused on applying **AI and computer vision** to robotics and real-world sensing.  
-Interested in **3D perception**, **LiDAR-based object detection**, and **foundation models** for practical automation systems.
+I am interested in **vision AI that understands surrounding environments and recognizes and estimates objects from real-time sensory data**, especially when such technology can contribute to public welfare, social well-being, and mutual prosperity. Building on this interest, my current focus is on **vision AI systems** for **autonomous mobile robots (AMRs)** and **smart factories.**
 
 ---
 
