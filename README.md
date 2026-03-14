@@ -17,9 +17,10 @@ Building on this interest, my current focus is on **vision AI systems** for **au
 ---
 
 ### 🧠 Tech Stack
-`Python` · `PyTorch` · `MATLAB` · `Visual Studio code`  
- · `CAD` · `Linux` · `Docker` · `Git`
-
+AI & Deep Learning: `PyTorch`, `TensorFlow`, `MATLAB`
+Programming Languages: `Python`, `C++`
+Development & Deployment: `Linux`, `Docker`, `Git`
+Web / Documentation & Collaboration: `Flask`, `Notion`, `Overleaf`
 ---
 
 ### 🚀 Research Activities
