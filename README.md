@@ -22,7 +22,7 @@ Interested in **3D perception**, **LiDAR-based object detection**, and **foundat
 
 ---
 
-### 🚀 Project Activities
+### 🚀 Research Activities
 
 **📄 Published Research**  
 - **SALD-Net (2025.09)** — SALD-Net: Self-attention-integrated LiDAR-based 3D object detection network in a crowded hospital environment 
