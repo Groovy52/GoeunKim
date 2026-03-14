@@ -27,7 +27,7 @@ Building on this interest, my current focus is on **vision AI systems** for **au
 
 ### 🚀 Research Activities
 
-**📄 Published Research**  
+**📄 Published Papers**  
 - **SALD-Net (2025.09)** — SALD-Net: Self-attention-integrated LiDAR-based 3D object detection network in a crowded hospital environment 
   [paper](https://link.springer.com/article/10.1007/s11760-025-04727-y)
 
